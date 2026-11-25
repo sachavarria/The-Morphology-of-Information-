@@ -1,6 +1,6 @@
 # The Morphology of Information
 
-**Edition 01 / 2026**
+**Edition 02 / 2026**
 
 **[Enter the interactive atlas](https://sachavarria.github.io/The-Morphology-of-Information-/)**
 
