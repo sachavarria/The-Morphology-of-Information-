@@ -6,7 +6,7 @@
 
 An ongoing artistic and computational investigation into the organization of information across mathematical, biological and planetary systems.
 
-S. A. Chavarría · Anti-disciplinary artist, writer, researcher and professor.
+S. A. Chavarría · Artist, writer, researcher and professor.
 
 Developed through sustained research in conversation with artificial intelligence.
 
@@ -20,6 +20,9 @@ The experimental findings remain exploratory and open to independent verificatio
 
 ## Sources and reproducibility
 
-The atlas documents five experiments, their findings, methodological limitations and dataset provenance. The public edition embeds attributed mathematical network samples and provides local data loading for other empirical networks whose redistribution terms require additional verification. Original third-party datasets are not included in this repository.
+The atlas documents seven experiments, their findings, methodological limitations and dataset provenance. The public edition embeds attributed mathematical network samples and provides local data loading for other empirical networks whose redistribution terms require additional verification. Original third-party datasets are not included in this repository.
 
 The website is a standalone HTML document. Source attribution and research qualifications are included within the atlas.
+
+
+[Experiment 007: exact state-space audit](experiment007.md) identifies limitations in the neural null sampler; its enrichment estimates remain conditional on sampled configurations.
